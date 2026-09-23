@@ -9,37 +9,38 @@
 I'm an Information Technology Engineer passionate about technology and interested in Artificial Intelligence and its applications in real-world environments.
 
 🚀 About Me
-👨‍💻 IT Engineer
-🛠️ Experience in IT Support & Infrastructure
-💻 Experience with ERP Systems
-🗄️ Knowledge of Databases & SQL
-🤖 Interested in Artificial Intelligence and AI tools
-🔧 Experience troubleshooting hardware and software
-📚 Always learning and exploring new technologies
-🧰 Technologies & Tools
+
+👨‍💻 IT Engineer <br>
+🛠️ Experience in IT Support & Infrastructure<br>
+💻 Experience with ERP Systems<br>
+🗄️ Knowledge of Databases & SQL<br>
+🤖 Interested in Artificial Intelligence and AI tools<br>
+🔧 Experience troubleshooting hardware and software<br>
+📚 Always learning and exploring new technologies<br>
+🧰 Technologies & Tools<br>
 
 IT & Support
 
-🖥️ Hardware & Software Support
-🌐 IT Infrastructure
-👥 User & Access Management
-🎫 Incident & Ticket Management
+🖥️ Hardware & Software Support<br>
+🌐 IT Infrastructure<br>
+👥 User & Access Management<br>
+🎫 Incident & Ticket Management<br>
 
 Systems & Data
 
-💻 ERP Systems
-🗄️ SQL & Databases
-☁️ Cloud Technologies
+💻 ERP Systems<br>
+🗄️ SQL & Databases<br>
+☁️ Cloud Technologies<br>
 
 AI & Technology
 
-🤖 Artificial Intelligence
-💬 AI Tools & Prompting
-⚙️ Automation
+🤖 Artificial Intelligence<br>
+💬 AI Tools & Prompting<br>
+⚙️ Automation<br>
 📌 What I'm Interested In
 
-🤖 Artificial Intelligence
+🤖 Artificial Intelligence<br>
 🛠️ IT Infrastructure
-💻 Technical Support
-🗄️ Databases & Systems
-⚙️ Technology & Automation
+💻 Technical Support<br>
+🗄️ Databases & Systems<br>
+⚙️ Technology & Automation<br>
