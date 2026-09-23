@@ -37,6 +37,7 @@ AI & Technology
 🤖 Artificial Intelligence<br>
 💬 AI Tools & Prompting<br>
 ⚙️ Automation<br>
+
 📌 What I'm Interested In
 
 🤖 Artificial Intelligence<br>
