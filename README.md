@@ -1,3 +1,6 @@
+![AI & Technology Header]([URL_DE_TU_IMAGEN](https://images.openai.com/static-rsc-4/H8sKsKl-lFFJvVKEgXr94GMqQdJa9e3zfmpj2TIqTH-Gy230H91n1-p-iej5Xx0kh9XnW2CM37c3Cj-_qfRHuKio7T0W1_FJ3vmeIDkEpsQwZ5AwHFG5pp9-HrSrz3ZZrPgwL_sdknBTvKcP8F9h4ZxiPMUi4Lg6xNGavPMlI3bBBcOc2xlWkvsoOc9Wvhka?purpose=inline))
+
+
 👋 Hi, I'm Isaac Calvopiña
 👨‍💻 IT Engineer | 🤖 AI & Technology | 🛠️ IT Support & Infrastructure
 
