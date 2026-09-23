@@ -4,7 +4,7 @@
 
 
 👋 Hi, I'm Isaac Calvopiña
-👨‍💻 IT Engineer | 🤖 AI & Technology | 🛠️ IT Support & Infrastructure
+
 
 I'm an Information Technology Engineer passionate about technology and interested in Artificial Intelligence and its applications in real-world environments.
 
