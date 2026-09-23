@@ -1,4 +1,5 @@
-![AI & Technology Header]([URL_DE_TU_IMAGEN](https://images.openai.com/static-rsc-4/H8sKsKl-lFFJvVKEgXr94GMqQdJa9e3zfmpj2TIqTH-Gy230H91n1-p-iej5Xx0kh9XnW2CM37c3Cj-_qfRHuKio7T0W1_FJ3vmeIDkEpsQwZ5AwHFG5pp9-HrSrz3ZZrPgwL_sdknBTvKcP8F9h4ZxiPMUi4Lg6xNGavPMlI3bBBcOc2xlWkvsoOc9Wvhka?purpose=inline))
+<img width="1806" height="860" alt="H8sKsKl-lFFJvVKEgXr94GMqQdJa9e3zfmpj2TIqTH-Gy230H91n1-p-iej5Xx0kh9XnW2CM37c3Cj-_qfRHuKio7T0W1_FJ3vmeIDkEpsQwZ5AwHFG5pp9-HrSrz3ZZrPgwL_sdknBTvKcP8F9h4ZxiPMUi4Lg6xNGavPMlI3bBBcOc2xlWkvs (1)" src="https://github.com/user-attachments/assets/81d92a58-9885-4e7d-823a-9937c340eb2c" />
+
 
 
 👋 Hi, I'm Isaac Calvopiña
