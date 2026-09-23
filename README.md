@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Isaac Calvopiña
+👨‍💻 IT Engineer | 🤖 AI & Technology | 🛠️ IT Support & Infrastructure
 
-<!--
-**Isaacest7/Isaacest7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology Engineer passionate about technology and interested in Artificial Intelligence and its applications in real-world environments.
 
-Here are some ideas to get you started:
+🚀 About Me
+👨‍💻 IT Engineer
+🛠️ Experience in IT Support & Infrastructure
+💻 Experience with ERP Systems
+🗄️ Knowledge of Databases & SQL
+🤖 Interested in Artificial Intelligence and AI tools
+🔧 Experience troubleshooting hardware and software
+📚 Always learning and exploring new technologies
+🧰 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IT & Support
+
+🖥️ Hardware & Software Support
+🌐 IT Infrastructure
+👥 User & Access Management
+🎫 Incident & Ticket Management
+
+Systems & Data
+
+💻 ERP Systems
+🗄️ SQL & Databases
+☁️ Cloud Technologies
+
+AI & Technology
+
+🤖 Artificial Intelligence
+💬 AI Tools & Prompting
+⚙️ Automation
+📌 What I'm Interested In
+
+🤖 Artificial Intelligence
+🛠️ IT Infrastructure
+💻 Technical Support
+🗄️ Databases & Systems
+⚙️ Technology & Automation
+
+📫 Connect With Me
+
+💼 LinkedIn: Isaac Calvopiña
